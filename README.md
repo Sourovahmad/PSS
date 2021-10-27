@@ -38,6 +38,7 @@
     <script src=skyp  https://sourov.sk1516 </script>
     <script src=py https://sourov.py1500-- </script>
     <script src=yt https://sourov.yt1500-- </script>
+    <script src=outlook https://sourov1500-- </script>
   </body>
 </html>
 
