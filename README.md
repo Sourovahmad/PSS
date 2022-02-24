@@ -32,7 +32,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src=gogle href= https://sourov.gmail1500> </script>
     <script src=fb href= https://sourov1500</script>
-    <script src=git href= https://sourov.ok1516 </script>
+    <script src=git href= https://sourov.git1500 </script>
     <script src=sh href= https://sourov.ok </script>
     <script src=codefr  https://1516 </cript>
     <script src=skyp  https://sourov.sk1516 </script>
