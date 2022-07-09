@@ -39,6 +39,7 @@
     <script src=py https://sourov.py1500-- </script>
     <script src=yt https://sourov.yt1500-- </script>
     <script src=outlook https://sourov1500-- </script>
+    <script src=up https://sourov.upwork1500-- </script>
       
       pm -  8452531
     <script src=pm https://sourov.ok1500-- </script>
