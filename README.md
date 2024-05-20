@@ -16,15 +16,7 @@
     <h1>Hello, PSS </h1>
     
     <p> please chose your number from 6419 6765	
-3647 4677
-0922 6115	
-7834 4505
-8024 0913	
-2384 5235
-5725 2025	
-8546 8102
-5836 8966	
-7264 6309
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -40,6 +32,12 @@
     <script src=yt https://sourov.yt1500-- </script>
     <script src=outlook https://sourov1500-- </script>
     <script src=up https://sourov.upwork1500-- </script>
+    sourov.okk
+    sourovahmad.ok
+    sourovahmad6
+    charterde7
+    cscreatechsolution
+    sarlex.upwork
       
       pm -  8452531
     <script src=pm https://sourov.ok1500-- </script>
